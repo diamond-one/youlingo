@@ -1,2 +1,3 @@
 # youlingo
-language learning app for android
+
+A new Flutter project.
